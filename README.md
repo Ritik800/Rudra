@@ -64,10 +64,10 @@ This project is licensed under the **MIT License**.
 ---
 
 ### 👤 Author
-**Ritik Mahale** 
-**Suyog Pagar**
-**Rohit Pawar**
-**Lokesh Borse**
+**Ritik Mahale**, 
+**Suyog Pagar**,
+**Rohit Pawar**,
+**Lokesh Borse**,
 [GitHub Profile](https://github.com/Ritik800/Rudra.git)
 
 
